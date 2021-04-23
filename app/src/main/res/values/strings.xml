@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Compund Intrest Calculator</string>
+
+    <string-array name="duration">
+        <item>month</item>
+        <item>year</item>
+    </string-array>
+</resources>
